@@ -1,0 +1,3 @@
+[submodule "OMGlib"]
+	path = OMGlib
+	url = https://github.com/hemml/OMGlib.git
